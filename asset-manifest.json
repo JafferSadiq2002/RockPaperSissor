@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RockPaperSissor/static/css/main.c9376443.css",
+    "main.js": "/RockPaperSissor/static/js/main.b99f839e.js",
+    "static/js/488.e3a68dff.chunk.js": "/RockPaperSissor/static/js/488.e3a68dff.chunk.js",
+    "index.html": "/RockPaperSissor/index.html",
+    "main.c9376443.css.map": "/RockPaperSissor/static/css/main.c9376443.css.map",
+    "main.b99f839e.js.map": "/RockPaperSissor/static/js/main.b99f839e.js.map",
+    "488.e3a68dff.chunk.js.map": "/RockPaperSissor/static/js/488.e3a68dff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9376443.css",
+    "static/js/main.b99f839e.js"
+  ]
+}
